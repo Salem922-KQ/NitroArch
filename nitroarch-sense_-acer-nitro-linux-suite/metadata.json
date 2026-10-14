@@ -1,0 +1,6 @@
+{
+  "name": "NitroArch-Sense: Acer Nitro Linux Suite",
+  "description": "Production-grade hardware control and monitoring suite for Acer Nitro laptops on Arch Linux (Wayland / Hyprland) with C++20 root daemon, NVML, and Qt6/QML frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
